@@ -3,6 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <Authors>Felipe Sousa</Authors>
+    <PackageProjectUrl>https://github.com/SousaFelipeD/Demo.Shared</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SousaFelipeD/Demo.Shared</RepositoryUrl>
+    <Description>Biblioteca de objetos comuns</Description>
   </PropertyGroup>
 
   <ItemGroup>
